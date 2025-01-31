@@ -1,4 +1,3 @@
-#notebook==7.2.2
 scikit-learn==1.6.0
 seaborn==0.13.2
 skimpy==0.0.17
